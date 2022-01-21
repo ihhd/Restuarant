@@ -1,0 +1,5 @@
+>>  In my Restaurant static website,I have about,best selling and contact us pages.in that user can
+    abale to view the website information and best selling food items.
+
+>>  And I also addded the contact us page,In that user can able to know about restaurant
+    address and also user can also able to reach out using query aubot form.
